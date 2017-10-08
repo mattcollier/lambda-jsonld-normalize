@@ -1,0 +1,22 @@
+{
+  "name": "lambda-jsonld-normalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattcollier/lambda-jsonld-normalize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattcollier/lambda-jsonld-normalize/issues"
+  },
+  "homepage": "https://github.com/mattcollier/lambda-jsonld-normalize#readme",
+  "dependencies": {
+    "jsonld": "^0.5.13"
+  }
+}
