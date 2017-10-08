@@ -1,1 +1,1 @@
-# lambda-jsonl-normalize
+# lambda-jsonld-normalize
